@@ -2,7 +2,7 @@
 
 Using the [TailPress](https://github.com/jeffreyvr/tailpress) boilerplate theme to recreate the [github.blog](https://github.blog) site.
 
-TODO: Add link to screencast.
+Screencast: https://youtu.be/g9q2d5jRXMY
 
 ## Getting started
 * Clone repo `git clone https://github.com/jeffreyvr/thegithubblog.git && cd thegithubblog`
